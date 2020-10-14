@@ -1,3 +1,4 @@
+# make your own assistant to do work by just listening your voice
 import pyttsx3  # pip install pyttsx3
 import datetime 
 import speech_recognition as sr # pip install speechRecognition
