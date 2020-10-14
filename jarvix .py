@@ -93,4 +93,4 @@ if __name__ == "__main__":
             codepath = "C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe"
             os.startfile(codepath)
 
-        # and many more elifyou can add  for more app to open by your assistant
+        # and many more elif you can add  for more app to open by your assistant
